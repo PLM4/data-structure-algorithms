@@ -1,4 +1,4 @@
-public class LinkedList {
+public class LinkedListAluno {
     private AlunoNo cabeca;
     private AlunoNo calda;
     private int tamanho;

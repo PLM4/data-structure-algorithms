@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+
 public class TabelaHash {
 
     private int tamanho;
